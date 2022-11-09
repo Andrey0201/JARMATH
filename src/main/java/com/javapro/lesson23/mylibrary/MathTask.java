@@ -1,4 +1,4 @@
-package com.javapro.lesson22.mylibrary;
+package com.javapro.lesson23.mylibrary;
 
 /**
  * @author Andrii Andriutsa on 08.11.2022
